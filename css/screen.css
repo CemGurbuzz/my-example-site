@@ -89,6 +89,10 @@ header p{
 	text-align: left;
 }
 
+.link-color{
+	color: #617140;
+}
+
 footer{
 	text-align: center;
 	font-size: 85%;
